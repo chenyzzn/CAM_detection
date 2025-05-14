@@ -1,0 +1,3 @@
+taskkill /f /im onefile_0426_RCAM.exe
+taskkill /f /im onefile_0426_TCAM.exe
+

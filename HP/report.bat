@@ -1,0 +1,1 @@
+python D:\test\record_CW_0426.py
